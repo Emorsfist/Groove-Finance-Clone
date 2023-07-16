@@ -1,0 +1,59 @@
+.account{
+  background-color: black;
+  display: flex;
+}
+
+.account_content{
+  margin-left: 125px;
+  margin-right: 125px;
+  padding-top: 100px;
+  position: absolute;
+}
+
+.heading{
+  display: inline;
+  color: white;
+  font-size: 60px;
+}
+
+.heading_details p, b{
+  color: white;
+  font-size: 30px;
+}
+
+.account_button{
+  padding-top: 25px;
+  padding-bottom: 50px;
+}
+
+.account_button_01{
+  background-color: #CD9933;
+  border: none;
+  color: white;
+  padding: 10px 40px 10px 40px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 8px;
+}
+.account_button_02{
+  background-color: transparent;
+  border: none;
+  color: #CD9933;
+  padding: 10px 40px 10px 40px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 8px;
+}
+.partners_heading{
+  color: white;
+  font-size: 20px;
+  padding-bottom: 20px;
+}
+.account_image{
+  margin-left: 700px;
+  height: 700px;
+}

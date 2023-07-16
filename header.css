@@ -1,0 +1,52 @@
+.header{
+  background-color: black;
+}
+
+.header_content{
+  margin-left: 125px;
+  margin-right: 125px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+.menu{
+  padding-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.menu a {
+  margin-bottom: 0px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 50px;
+}
+
+.menu a:hover {
+  color: #E99C2E;
+  text-decoration-line: underline;
+}
+
+.menu a:focus{
+  color: white;
+}
+
+.header_button{
+  padding-top: 10px;
+}
+
+.button{
+  background-color: #CD9933;
+  border: none;
+  color: white;
+  padding: 10px 10px 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  cursor: pointer;
+  border-radius: 8px;
+}
