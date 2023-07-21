@@ -1,0 +1,41 @@
+.switch{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color: white;
+    display: flex;
+}
+
+.switch_image{
+    margin-left: 125px;
+    margin-right: 125px;
+}
+
+.switch_details_heading h1{
+    font-size: 40px;
+}
+
+.switch_details_content{
+    padding-top: 50px;
+    font-size: 40px;
+}
+
+.switch_details_content p{
+    font-size: 22px;
+}
+
+.switch_details_button{
+    padding-top: 50px;
+  }
+  
+  .switch_details_button  button{
+    background-color: #CD9933;
+    border: none;
+    color: white;
+    padding: 15px 30px 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 8px;
+  }
